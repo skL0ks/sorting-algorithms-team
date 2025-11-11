@@ -9,9 +9,8 @@
 Разработка и сравнение различных алгоритмов сортировки силами команды из 4 человек.
 
 ## 👥 Команда
-- **Team Lead**: Алексей - ревью кода и интеграция
-- **Developer 1**: Мария - Bubble Sort, Selection Sort
-- **Developer 2**: Иван - Quick Sort, Merge Sort  
-- **Developer 3**: Ольга - Insertion Sort, Heap Sort
+- **Team Lead**: Сатана - ревью кода и интеграция
+- **Developer 1**: Илья - Bubble Sort, Selection Sort, Heap Sort
+- **Developer 2**: Антон - Quick Sort, Merge Sort, Insertion Sort
 
 ## 📁 Структура проекта
